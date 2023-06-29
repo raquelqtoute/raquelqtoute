@@ -1,6 +1,6 @@
 ### Hii! ❤
 
-- 💻 I’m currently learning html and css
+- 💻 I’m learning html and css
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
 </div>
