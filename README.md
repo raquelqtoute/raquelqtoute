@@ -9,5 +9,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <div/>
 -  🇧🇷 I’m brazilian
-- 📚 I'm in 8th grade
+- 📚 I’m in 8th grade
+- 😸 I’m 13 years old
 -->
